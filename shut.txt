@@ -1,0 +1,3 @@
+# 输入 openclaw onboard 首次配置
+# 若对接了聊天渠道，请在重启命令中添加 su - runner -c 'openclaw gateway' 命令
+
