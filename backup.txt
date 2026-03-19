@@ -3,4 +3,4 @@
 # ========== 备份记录 ==========
 
 # 路径: /home/runner/.openclaw
-home_runner_.openclaw.tar.gz http://bashupload.app/gwelyj.bin
+home_runner_.openclaw.tar.gz http://bashupload.app/68ti2l.bin
